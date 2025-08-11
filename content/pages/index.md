@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Saiba como a inteligência tributária pode salvar
+      text: Saiba como a inteligência tributária pode te salvar
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
