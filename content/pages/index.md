@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Quem já usa a nossa tecnologia?
+  - subtitle: Quem já utiliza a tecnologia ONEPAY?
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
